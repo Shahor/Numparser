@@ -6,6 +6,14 @@
     "scripts": {
         "test": "node_modules/tape/bin/tape tests/**/*.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Shahor/Numparser.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Shahor/Numparser/issues"
+    },
+    "homepage": "https://github.com/Shahor/Numparser#readme",
     "keywords": [
         "lazy",
         "number",
