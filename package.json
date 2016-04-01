@@ -1,0 +1,33 @@
+{
+    "name": "numparser",
+    "version": "1.0.0",
+    "description": "Parses input to base 10, the npm way",
+    "main": "index.js",
+    "scripts": {
+        "test": "node_modules/tape/bin/tape tests/**/*.js"
+    },
+    "keywords": [
+        "lazy",
+        "number",
+        "parsing"
+    ],
+    "author": "Alexandre Gaudencio",
+    "license": "MIT",
+    "devDependencies": {
+        "tap-dot": "^1.0.4",
+        "tape": "^4.5.1"
+    },
+    "testling": {
+        "files": "test/*.js",
+        "browsers": [
+            "ie/6..latest",
+            "chrome/22..latest",
+            "firefox/16..latest",
+            "safari/latest",
+            "opera/11.0..latest",
+            "iphone/6",
+            "ipad/6",
+            "android-browser/latest"
+        ]
+    }
+}
