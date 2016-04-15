@@ -5,6 +5,12 @@ Travis CI : [![Build Status](https://travis-ci.org/Shahor/Numparser.svg?branch=m
 
 A simple utility for all your conversion needs
 
+# Install
+
+```npm install numparser```
+
+# Usage 
+
 ```javascript
 let NumParser = require('numparser')
 
