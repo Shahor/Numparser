@@ -1,5 +1,8 @@
 Travis CI : [![Build Status](https://travis-ci.org/Shahor/Numparser.svg?branch=master)](https://travis-ci.org/Shahor/Numparser)
 
+
+[![NPM](https://nodei.co/npm/numparser.png?downloads=true)](https://nodei.co/npm/numparser.png?downloads=true)
+
 A simple utility for all your conversion needs
 
 ```javascript
