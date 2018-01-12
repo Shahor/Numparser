@@ -7,6 +7,8 @@ A simple utility for all your conversion needs
 
 # Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Shahor/Numparser.svg)](https://greenkeeper.io/)
+
 ```npm install numparser```
 
 # Usage 
