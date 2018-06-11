@@ -22,7 +22,7 @@
     "author": "Alexandre Gaudencio",
     "license": "MIT",
     "devDependencies": {
-        "tap-dot": "^1.0.4",
+        "tap-dot": "^2.0.0",
         "tape": "^4.5.1"
     },
     "testling": {
